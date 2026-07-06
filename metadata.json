@@ -1,0 +1,6 @@
+{
+  "name": "FairLink P2P",
+  "description": "The cooperative, self-custodial peer-to-peer escrow and trust scoring network at FairLinkp2p.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
